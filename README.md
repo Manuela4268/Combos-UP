@@ -5,6 +5,6 @@ Uso:
 
 pkg install git -y
 
-git clone 
+git clone https://github.com/Manuela4268/Combos-UP
 
-Python3 
+Python3 UP.py 
